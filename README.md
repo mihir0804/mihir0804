@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=""[GeneratedFileDecember152025-10_19PM-ezgif.com-optimize.gif](https://github.com/mihir0804/mihir0804/blob/main/GeneratedFileDecember152025-10_19PM-ezgif.com-optimize.gif?raw=true)"" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Automate Everything" />
+<img src="[GeneratedFileDecember152025-10_19PM-ezgif.com-optimize.gif](https://github.com/mihir0804/mihir0804/blob/main/GeneratedFileDecember152025-10_19PM-ezgif.com-optimize.gif?raw=true)" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Automate Everything" />
 
 # Mihir Milind Ughade
 
